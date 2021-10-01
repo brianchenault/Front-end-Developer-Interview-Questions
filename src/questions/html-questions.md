@@ -4,10 +4,12 @@ layout: layouts/page.njk
 permalink: /questions/html-questions/index.html
 ---
 
-* What does a `doctype` do?
+https://codeburst.io/clearing-your-front-end-job-interview-html-706f8b2c7dca#:~:text=What%20are%20the%20building%20blocks,and%20operate%20offline%20more%20efficiently.
+
+* What does a `doctype` do? 
 * How do you serve a page with content in multiple languages?
 * What kind of things must you be wary of when designing or developing for multilingual sites?
-* What are `data-` attributes good for?
+* What are `data-` attributes good for? 
 * Consider HTML5 as an open web platform. What are the building blocks of HTML5?
 * Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.
 * Describe the difference between `<script>`, `<script async>` and `<script defer>`.
