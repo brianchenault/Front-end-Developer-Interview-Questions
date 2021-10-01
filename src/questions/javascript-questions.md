@@ -4,6 +4,8 @@ layout: layouts/page.njk
 permalink: /questions/javascript-questions/index.html
 ---
 
+https://codeburst.io/clearing-your-front-end-job-interview-javascript-d5ec896adda4
+
 * Explain event delegation.
 * Explain how `this` works in JavaScript.
   * Can you give an example of one of the ways that working with `this` has changed in ES6?
