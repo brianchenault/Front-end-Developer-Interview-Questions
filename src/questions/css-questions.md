@@ -4,6 +4,8 @@ layout: layouts/page.njk
 permalink: /questions/css-questions/index.html
 ---
 
+https://codeburst.io/clearing-your-front-end-job-interview-css-95bdd82871f2
+
 * What is CSS selector specificity and how does it work?
 * What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
 * Describe Floats and how they work.
